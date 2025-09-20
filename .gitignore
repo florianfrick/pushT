@@ -1,0 +1,4 @@
+*.pth
+*.zarr/
+*.zip
+__pycache__/
