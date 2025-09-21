@@ -2,3 +2,4 @@
 *.zarr/
 *.zip
 __pycache__/
+*.mp4
